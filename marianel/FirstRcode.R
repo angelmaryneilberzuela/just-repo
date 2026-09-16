@@ -6,3 +6,6 @@
  MulAge = joseAge * juanAge
  MulAge
  
+ SubAge = joseAge - juanAge
+ SubAge
+ 
