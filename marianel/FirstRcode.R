@@ -9,3 +9,6 @@
  SubAge = joseAge - juanAge
  SubAge
  
+ DivAge = joseAge / juanAge
+ DivAge
+ 
