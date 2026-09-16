@@ -3,4 +3,6 @@
  
  addAge = joseAge + juanAge
  
+ MulAge = joseAge * juanAge
+ MulAge
  
